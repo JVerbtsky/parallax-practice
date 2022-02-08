@@ -1,0 +1,18 @@
+#jumbotron {
+    background: #ecf1f5 url("/img/matthew-brodeur-eJ9mX6yEbAw-unsplash.jpg") no-repeat center / contain;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.container-fluid {
+  color:white;
+}
+
+.navbar-brand {
+  font-family: 'Archivo Black', sans-serif;
+}
+
+
+
